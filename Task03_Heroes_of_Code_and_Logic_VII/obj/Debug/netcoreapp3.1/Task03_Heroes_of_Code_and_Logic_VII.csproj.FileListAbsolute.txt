@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\bin\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.exe
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\bin\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\bin\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\bin\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\bin\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\bin\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.genruntimeconfig.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione_2\Task03_Heroes_of_Code_and_Logic_VII\obj\Debug\netcoreapp3.1\Task03_Heroes_of_Code_and_Logic_VII.csprojAssemblyReference.cache
